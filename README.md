@@ -1,4 +1,4 @@
-
+proyecto final
 Nombre del juego:
 Mutan Dungeon
 este nombre lo elegimos porque el lugar donde se desarrolla el juego es un calabozo con criaturas con mutaciones
@@ -9,5 +9,15 @@ te despartas en la celda de una mazmorra sin idea de como llegaste ahi agarras u
 instrucciones: el juego hay que pasar por 4 habitaciones con enemigos y monedas para pasar a la sigueinte sala al pasar por todas hbras completado la prueba (juego)
 requisitos: Gamermaker
 Windows 11
+
+auditoria y creditos:
+la idea fue original algunos de los sprites fueron generados con inteligencia artificial
+
+Integrantes y roles:
+Maximiliano Mombru y Benjamin Morales
+el sprite del jugador y el ecenario fue hecho por benjamin 
+Maximiliano se encargo de la programacion
+la idea fue originalmente de Maximiliano y benjamin la complemente bastante
+
 
 
